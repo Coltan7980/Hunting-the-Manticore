@@ -1,4 +1,6 @@
-﻿namespace HuntingTheManticore
+﻿//Written by Coltan Paul
+//2/11/25
+namespace HuntingTheManticore
 {
     internal class Program
     {
